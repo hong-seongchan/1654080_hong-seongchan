@@ -227,7 +227,7 @@ MonoBehaviour:
   deathHoldTime: 0.8
   respawnDelay: 2
   maxRespawnCount: -1
-  hpDisplayHeightOverride: 3.6
+  hpDisplayHeightOverride: 3.4
   idleFrameTimes: []
   flyFrameTimes: []
   attack1FrameTimes:

@@ -335,7 +335,7 @@ MonoBehaviour:
   attack1BoxOffset: {x: -1.35, y: 0.8}
   attack2BoxSize: {x: 5.2, y: 2.4}
   attack2BoxOffset: {x: -2.6, y: 1.2}
-  hpDisplayHeightOverride: 3.3
+  hpDisplayHeightOverride: 3.1
   defaultFramesPerSecond: 8
   spriteRenderer: {fileID: 0}
   idleFrames:
